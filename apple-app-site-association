@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "N6X4RJZZ5D.com.intel.AppShell.AdvURLs3UL",
+                "paths": [ "*", "/" ]
+            }
+        ]
+    }
+}
